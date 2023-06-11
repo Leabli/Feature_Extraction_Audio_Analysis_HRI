@@ -4,7 +4,7 @@
 This repository contains the code and report for an experiment conducted at the CHILI laboratory. The experiment explores humans' speech characteristics when responding to a social robot.
 A short description of the experiment along with the results can be found in the Summary pdf file, more detailed descriptions and conclusions are presented in the Report.
 
-[How to use the code.]
+## How to use the code 
 
 Original data used for the presentation of the results are not given in the repository since it includes participants audio recordings. However, all the steps leading to the results presented in the Report are detailed in the notebook 'Feature_extraction_and_analysis."
 
